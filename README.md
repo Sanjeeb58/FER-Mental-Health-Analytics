@@ -61,7 +61,11 @@ The model was trained on the FER-2013 dataset (35,000+ images).
 * **IoT Integration:** Deploying on edge devices like Raspberry Pi for smart mirrors.
 
 ## 📧 Contact
-* **GitHub:** [Sanjeeb58](https://github.com/Sanjeeb58)
+* **Email:** [sanjeebpothal2004@gmail.com](sanjeebpothal2004@gmail.com)
+
+## Special Credit
+Description: Indonesia artificial intelligence AI Developer | Website Developer | Mobile Developer | Software Developer | Software House Indonesia
+Reference: [Second Vision Corp](https://secondvisioncorp.com/)
 
 ---
 *Built with ❤️ and code to foster mental wellness.*
