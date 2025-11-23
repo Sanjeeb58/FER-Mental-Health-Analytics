@@ -34,8 +34,8 @@ This project leverages **Computer Vision** and **Deep Learning** to build a real
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/Sanjeeb58/YOUR-REPO-NAME.git](https://github.com/Sanjeeb58/YOUR-REPO-NAME.git)
-    cd YOUR-REPO-NAME
+    git clone https://github.com/Sanjeeb58/FER-Mental-Health-Analytics.git
+    cd FER-Mental-Health-Analytics
     ```
 
 2.  **Install Dependencies**
